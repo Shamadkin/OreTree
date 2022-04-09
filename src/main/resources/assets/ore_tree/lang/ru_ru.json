@@ -1,0 +1,22 @@
+{
+  "block.ore_tree.coal_tree_log": "Бревно угольного дерева",
+  "block.ore_tree.copper_tree_log": "Бревно медного дерева",
+  "block.ore_tree.diamond_tree_log": "Бревно алмазного дерева",
+  "block.ore_tree.emerald_tree_log": "Бревно изумрудного дерева",
+  "block.ore_tree.gold_tree_log": "Бревно золотого дерева",
+  "block.ore_tree.iron_tree_log": "Бревно железного дерева",
+  "block.ore_tree.lapis_tree_log": "Бревно лазуритового дерева",
+  "block.ore_tree.quartz_tree_log": "Бревно кварцевого дерева",
+  "block.ore_tree.redstone_tree_log": "Бревно редстоуного дерева",
+  "block.ore_tree.coal_tree_sapling": "Саженец угольного дерева",
+  "block.ore_tree.copper_tree_sapling": "Саженец медного дерева",
+  "block.ore_tree.diamond_tree_sapling": "Саженец алмазного дерева",
+  "block.ore_tree.emerald_tree_sapling": "Саженец изумрудного дерева",
+  "block.ore_tree.gold_tree_sapling": "Саженец золотого дерева",
+  "block.ore_tree.iron_tree_sapling": "Саженец железного дерева",
+  "block.ore_tree.lapis_tree_sapling": "Саженец лазуритового дерева",
+  "block.ore_tree.quartz_tree_sapling": "Саженец кварцевого дерева",
+  "block.ore_tree.redstone_tree_sapling": "Саженец редстоуного дерева",
+
+  "itemGroup.ore_tree.main": "Рудное дерево"
+}
